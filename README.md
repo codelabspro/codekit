@@ -46,6 +46,14 @@ Stuck? Visit us at https://svelte.dev/chat
 
 ```
 
+* Dev
+
+```
+==> npm install
+
+==> npm run dev -- --open
+```
+
 
 ## Links
 
