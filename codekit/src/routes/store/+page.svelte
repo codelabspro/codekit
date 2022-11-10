@@ -1,1 +1,1 @@
-<a href="/about">Welcome to CodeKit Store</a>
+<h1>Welcome to CodeKit Store</h1>
