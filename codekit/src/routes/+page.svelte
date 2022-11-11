@@ -1,4 +1,4 @@
-<h1>Welcome to CodeKit</h1>
+<h1 class="text-4xl">Welcome to CodeKit</h1>
 <p>The Meta Platform for Building Platforms</p>
 
 <script>

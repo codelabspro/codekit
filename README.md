@@ -57,6 +57,9 @@ https://github.com/svelte-add/tailwindcss
 ```
 ==> npx svelte-add@latest tailwindcss
 
+==> npm install
+
+==> npm install -D daisyui
 ```
 
 * Dev
