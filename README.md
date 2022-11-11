@@ -51,6 +51,14 @@ Stuck? Visit us at https://svelte.dev/chat
 ==> npm install dotenv
 ```
 
+* Integrate Tailwind and DaisyUI
+https://github.com/svelte-add/tailwindcss
+
+```
+==> npx svelte-add@latest tailwindcss
+
+```
+
 * Dev
 
 ```
