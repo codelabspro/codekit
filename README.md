@@ -1,5 +1,11 @@
 # codekit
-CodeKIt is an open source meta framework built using SvelteKit
+CodeKIt is an open source meta platform for launching meta platforms built using SvelteKit  and CloudPlatform
+
+## Screenshots
+<img src="https://raw.githubusercontent.com/codelabspro/codekit/main/screenshots/screenshot_1.png" width="400px">
+<img src="https://raw.githubusercontent.com/codelabspro/codekit/main/screenshots/screenshot_2.png" width="400px">
+<img src="https://raw.githubusercontent.com/codelabspro/codekit/main/screenshots/screenshot_3.png" width="400px">
+<img src="https://raw.githubusercontent.com/codelabspro/codekit/main/screenshots/screenshot_4.png" width="400px">
 
 ## Steps
 
