@@ -1,14 +1,13 @@
-<h1 class="text-4xl">Welcome to CodeKit</h1>
-<p>The Meta Platform for Building Platforms</p>
-
-<script>
-    export let data;
-    const { products } = data;
-</script>
-{#each products as product}
-    <div>
-        <h2>{product.title}</h2>
-        <p>{product.description}</p>
-        <p>{product.price}</p>
+<div class="hero min-h-screen" style="background-image: url(https://placeimg.com/1000/800/arch);">
+    <div class="hero-overlay bg-opacity-60"></div>
+    <div class="hero-content text-center text-neutral-content">
+      <div class="max-w-md">
+        <h1 class="mb-5 text-5xl font-bold">CodeKit</h1>
+        <p class="mb-5">CodeKit is a meta platform for building platforms</p>
+        <a href="/"><button class="btn btn-primary">Home</button></a>
+        <a href="/about"><button class="btn btn-primary">About</button></a>
+        <a href="/news" data-sveltekit-prefetch><button class="btn btn-primary">News</button></a>
+        <a href="/store" data-sveltekit-prefetch><button class="btn btn-primary">Store</button></a>
+      </div>
     </div>
-{/each}
+  </div>

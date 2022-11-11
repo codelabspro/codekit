@@ -2,11 +2,16 @@
     export let data;
     const { products } = data;
 </script>
-<h1>Welcome to CodeKit Store</h1>
 {#each products as product}
-    <div>
-        <h2>{product.title}</h2>
-        <p>{product.description}</p>
-        <p>{product.price}</p>
-    </div>
+    <div class="card w-96 glass">
+        <figure><img src="https://placeimg.com/400/225/arch" alt="car!"/></figure>
+        <div class="card-body">
+          <h2 class="card-title">{product.title}</h2>
+          <p>{product.description}</p>
+          <div class="card-actions justify-end">
+            <button class="btn btn-primary">$ {product.price}</button>
+          </div>
+        </div>
+      </div>
+    <div class="divider"></div> 
 {/each}

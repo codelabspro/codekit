@@ -10,7 +10,15 @@ const config = {
 	  // daisyUI config (optional)
 	  daisyui: {
 		styled: true,
-		themes: true,
+		themes: [
+			'coffee',
+			'business',
+			'emerald',
+			'dark',
+			'night',
+			'forest',
+			'synthwave'
+		],
 		base: true,
 		utils: true,
 		logs: true,
