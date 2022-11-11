@@ -4,7 +4,7 @@
 </script>
 {#each products as product}
     <div class="card w-96 glass">
-        <figure><img src="https://placeimg.com/400/225/arch" alt="car!"/></figure>
+        <figure><img src="{product.thumbnail}" alt="car!"/></figure>
         <div class="card-body">
           <h2 class="card-title">{product.title}</h2>
           <p>{product.description}</p>

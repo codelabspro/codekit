@@ -1,6 +1,3 @@
-<h1 class="text-4xl">About</h1>
-<p>The Meta Platform for Building Platforms</p>
-
 <script>
     export let data;
     const { products } = data;
