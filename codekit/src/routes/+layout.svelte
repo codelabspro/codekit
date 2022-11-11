@@ -7,6 +7,7 @@
         <a href="/">Home</a>
         <a href="/about">About</a>
         <a href="/store" data-sveltekit-prefetch>Store</a>
+        <a href="/news">News</a>
       </nav>
       
       <slot></slot>
