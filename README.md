@@ -46,6 +46,11 @@ Stuck? Visit us at https://svelte.dev/chat
 
 ```
 
+* Install dotenv
+```
+==> npm install dotenv
+```
+
 * Dev
 
 ```
