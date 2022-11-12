@@ -81,5 +81,7 @@ https://github.com/svelte-add/tailwindcss
 
 https://kit.svelte.dev
 
+https://dummyjson.com/products?limit=2
+
 https://open-props.style
 
